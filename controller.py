@@ -2,7 +2,6 @@
 """
 Created on Tue Nov 14 16:02:07 2017
 
-@author: ravratho
 """
 
 from pymongo import MongoClient

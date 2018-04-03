@@ -2,7 +2,6 @@
 """
 Created on Thu Nov 16 22:26:08 2017
 
-@author: souvbose
 """
 
 import logging

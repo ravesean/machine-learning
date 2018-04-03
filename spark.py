@@ -2,7 +2,6 @@
 """
 Created on Wed Nov 15 11:57:20 2017
 
-@author: souvbose
 """
 
 from flask import Flask
